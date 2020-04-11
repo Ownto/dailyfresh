@@ -1,1 +1,3 @@
-# dailyfresh
+# 基于django2.2的天天生鲜项目
+
+
